@@ -6,9 +6,9 @@ A background service that checks if you have a video playing and turns off your 
 - `brightnessctl`
 
 ## Installation
-To install just run './install.sh' from inside the repo
+To install just run `./install.sh` from inside the repo
 
-To uninstall just run './uninstall.sh' from inside the repo
+To uninstall just run `./uninstall.sh` from inside the repo
 
 ## Usage
 You can enable the service with
